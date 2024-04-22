@@ -1,0 +1,20 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: color-mix(in srgb, white, cyan 5%);
+    padding: 0 1rem;
+}
+
+.wrapper {
+    max-width: 600px;
+    margin: auto;
+}
+
+a {
+    text-decoration: none;
+    background-color: color-mix(in srgb, cyan, black 35%);
+    color: color-mix(in srgb, cyan, white 70%);
+    padding: 0.8rem 1.75rem;
+    border-radius: 8px; 
+    font-weight: 600;
+    font-size: 1.2rem;
+}
